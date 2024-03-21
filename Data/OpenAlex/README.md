@@ -1,6 +1,8 @@
 # OpenAlex data
 
-Notes and details about the OpenAlex dataset we use in this project
+Notes and details about the OpenAlex dataset we use in this project.
+
+Data in this directory is from [OpenAlex](https://openalex.org), an open-source bibliographic database of academic publications. Data is accessed using [`pyalex`](https://github.com/J535D165/pyalex). See the documentation there for details on how to call the OpenAlex API from python.
 
 ## Example notebooks
 
