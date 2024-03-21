@@ -1,0 +1,3 @@
+# Retraction Watch data
+
+Add notes here about retraction watch database, sources, processing, etc...
